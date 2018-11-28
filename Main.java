@@ -152,7 +152,7 @@ import java.util.Scanner;
         }
         break;
 
-        case "north":
+        case "go north":
         if (redDoorOpen) {
         inFoyer = false;
         inLibrary = true;
@@ -232,7 +232,7 @@ import java.util.Scanner;
         }
         break;
 
-        case "north":
+        case "go north":
         if (blueDoorOpen) {
         inLibrary = false;
         inConservatory = true;
