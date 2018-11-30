@@ -1,4 +1,4 @@
-"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=62189:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Alan\IdeaProjects\neeraj\out\production\neeraj Main
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=63450:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Alan\IdeaProjects\neeraj\out\production\neeraj Main
 Welcome to the cursed mansion of Baron Von Strahd, you have but 30 turns to. You can enter the 2 word commands as verb-noun statements. The command [help] will remind you of the commands you can use, and [look] without a noun will restate the description of the room you are in.
  Your verbs are [open], [read], [look], [close], [write], [get], [light], and [play].
  Your nouns are [door], [candle], [book], [trumpet], [room], [note], [pen], [piano], [bench], [matches], [scroll], [drum], [chest], [shelves], [music], and [lock].
@@ -9,7 +9,7 @@ Welcome to the cursed mansion of Baron Von Strahd, you have but 30 turns to. You
 As you inspect the dimly lit foyer around yourself, you notice a caste iron door to your north with a brass knocker and engraved symbols.
  To your west lies a stout oaken bench with blood red cushions, it is pushed against the wall.
  To the east is plain ebony chest with a raven carved into it. 
-In the center of the room lies a large wax candle. The candle is unlit, but it looks like it has been lit before.
+ In the center of the room lies a large wax candle. The candle is unlit, but it looks like it has been lit before.
  You have 30 turns to escape.
 >>open chest
 
@@ -19,106 +19,58 @@ As the flat top of the chest creaks open, you find a pack of matches at its bott
 
 You pocket the pack of matches from the chest.
  You have 28 turns to escape.
->>light canfle
-
-In the foyer there is a bench, a chest, an unlit candle, and a note. There is a locked door to the north.
- You have 27 turns to escape.
 >>light candle
 
-You light the candle with a match. Suddenly, the runes along the wax of the candle brighten as its flame flickers. You fell a strong gust behind you that seems to make the candle blow brighter. You hear a loud metal CLICK coming from the direction of the door.
- You have 26 turns to escape.
+You light the candle with a match. Suddenly, the runes along the wax of the candle brighten as its flame flickers. You feel a strong gust behind you that seems to make the candle blow brighter. You hear a loud metal CLICK coming from the direction of the door.
+ You have 27 turns to escape.
 >>open door
 
 The door has been opened.
- You have 25 turns to escape.
->>north
+ You have 26 turns to escape.
+>>go north
 
 You exit the foyer, and the door slams loudly behind you with a CLICK. It doesn't seem to be openable again.
  You now find yourself in a small library with a single shelf of books. There is a mahogany desk in the center of the room. Although it seems like the desk is meant for studying, there are large scratch marks running along it and its corners have been gnawed off.
  There lies a pen and scroll on top of it.
  To your north, there is a similar caste iron door with a copper knocker. It seems to have different symbols engraved into it.
-You have 24 turns left.
+You have 25 turns left.
 >>get pen
 
 You picked up the pen from the desk.
  It's leaking a little bit of ink
-You have 23 turns left.
->>write name
-
-In the library there are stacks of books lining the shelves, a desk, a pen, and a scroll. There is another locked door to the north.
-You have 22 turns left.
->>write scroll
-
-In the library there are stacks of books lining the shelves, a desk, a pen, and a scroll. There is another locked door to the north.
-You have 21 turns left.
->>write note
-
-In the library there are stacks of books lining the shelves, a desk, a pen, and a scroll. There is another locked door to the north.
-You have 20 turns left.
+You have 24 turns left.
 >>write book
 
 You have completed the autobiography! You then hear a loud CLICK from your north.
-You have 19 turns left.
+You have 23 turns left.
 >>open door
 
 The door has been opened.
-You have 18 turns left.
->>north
-
-In the library there are stacks of books lining the shelves, a desk, a pen, and a scroll. There is another locked door to the north.
-You have 17 turns left.
->>play piano
-
-In the library there are stacks of books lining the shelves, a desk, a pen, and a scroll. There is another locked door to the north.
-You have 16 turns left.
+You have 22 turns left.
 >>go north
 
 As you leave the small study, and the door slams loudly behind and then resounds with a loud CLICK. It seems to have locked automatically, so you cannot return to the library.
  You now find yourself in the large conservatory. There is another black to your north. It has a platinum knocker and the unmistakable symbol of the Baron's sigil.
  There are several broken down instruments. The only three that seem to function are a grand piano with a red velvet bench, and silvered trumpet, and a set of bongo drums with a taut skin. 
  There's also a stand with sheet music in the center of the room.
- You have 15 turns left.
->>read music
-
-You read the title as: "Timbre, Tone, and Time", although its hard to make out with the scrawly hand writting.
- You have 14 turns left.
->>play trumpet
-
-Did you get the trumpet yet? 
- You have 13 turns left.
->>get trumpet
-
-The trumpet has a snake engraved into it.
- You have 12 turns left.
+ You have 21 turns left.
 >>play trumpet
 
 With a triumphant TOOT, the trumpet plays.
- You have 11 turns left.
->>get piano
-
-In the conservatory there is a large door to the north that is locked. There are three instruments- a trumpet, a piano, and a drum. There is a sheet of music on a stand.
- You have 10 turns left.
+ You have 20 turns left.
 >>play piano
 
 You play the piano Goonies style, it seems to be very out of tune.
- You have 9 turns left.
->>play drums
-
-In the conservatory there is a large door to the north that is locked. There are three instruments- a trumpet, a piano, and a drum. There is a sheet of music on a stand.
- You have 8 turns left.
->>get drums
-
-In the conservatory there is a large door to the north that is locked. There are three instruments- a trumpet, a piano, and a drum. There is a sheet of music on a stand.
- You have 7 turns left.
->>go drums
-
-In the conservatory there is a large door to the north that is locked. There are three instruments- a trumpet, a piano, and a drum. There is a sheet of music on a stand.
- You have 6 turns left.
->>go drum
-
-the drum's skin is coarse and uncomftorble to touch.
- You have 5 turns left.
+ You have 19 turns left.
 >>play drum
 
-Success! The door to the north opens and you escape the conservatory, exiting the mansion with 4 spare turns.
+Once you lightly tap on the drum, you feel the room quake suddenly and a CLICK resounds from the door.
+ You have 18 turns left.
+>>open door
+
+You see light trickle from the outside as you slowly push the heavy black iron door open. You have 17 turns left.
+>>go north
+
+Success! You're outside and away from danger. 
+You have escaped the Baron's mansion with 16 spare turns, but will you be as lucky next time?
 Process finished with exit code 0
